@@ -1,0 +1,9 @@
+torch
+beautifulsoup4
+pandas
+numpy
+torchvision
+matplotlib
+scikit-learn
+tqdm
+opencv-python
