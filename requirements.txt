@@ -6,4 +6,4 @@ torchvision
 matplotlib
 scikit-learn
 tqdm
-opencv-python
+wandb
