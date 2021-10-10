@@ -1,0 +1,4 @@
+wandb/
+saved_models/
+artifacts/
+.vscode/
