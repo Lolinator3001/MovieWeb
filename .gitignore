@@ -2,3 +2,5 @@ wandb/
 saved_models/
 artifacts/
 .vscode/
+*.npy
+*.pyc
